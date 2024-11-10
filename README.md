@@ -1,7 +1,18 @@
-# 📚 LIBFT - Biblioteca de Funções em C
+<h1  align="center">
+📚 LIBFT - Biblioteca de Funções em C  
+</h1>
 
 ## 📖 Sobre o Projeto
 A LIBFT é uma biblioteca em C que recria diversas funções padrão da linguagem, servindo como ferramenta para aprender os conceitos básicos de programação em C, como verificação de caracteres, manipulação de strings e gerenciamento de memória.
+
+🔍 Dicas para Iniciantes
+- Comece estudando as funções mais simples como ft_strlen e ft_strcpy;
+- Use o debugger GDB (GNU Debugger) para entender o fluxo das funções;
+- Faça testes extensivos para cada função;
+- Consulte o manual (man) das funções originais.
+```bash
+man atoi
+```
 
 ## 🛠️ Funções Implementadas
 
@@ -82,3 +93,19 @@ cd libft
 
 # Compile a biblioteca
 make
+```
+
+## 🧪 Testando sua Libft
+
+Para validar a Libft, os seguintes recursos de teste foram utilizados:
+- [Francinette](https://github.com/xicodomingues/francinette) - contempla diversos testers em um único repositório.
+- [Libftest](https://github.com/jtoty/Libftest) - no momento em que este arquivo está sendo escrito, os testes do repositório original do Libftest estão mais atualizado que os testes que estão na Francinette, por isso recomendo utilizar eles separadamente.
+
+> [!TIP]
+> Pesquise por cenarios de erros e avalie se os testes estão cobrindo todos, crie e rode seus próprios testes também.
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+> [!NOTE]
+> ⭐️ Se este projeto te ajudou, não esqueça de dar uma estrela!
