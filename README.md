@@ -105,7 +105,7 @@ Para validar a Libft, os seguintes recursos de teste foram utilizados:
 > Pesquise por cenarios de erros e avalie se os testes estão cobrindo todos, crie e rode seus próprios testes também.
 
 ## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 > [!NOTE]
 > ⭐️ Se este projeto te ajudou, não esqueça de dar uma estrela!
