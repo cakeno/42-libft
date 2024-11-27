@@ -1,5 +1,5 @@
 <h1  align="center">
-📚 LIBFT - Biblioteca de Funções em C  
+📚 LIBFT - Biblioteca de Funções em C
 </h1>
 
 ## 📖 Sobre o Projeto
