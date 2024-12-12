@@ -2,7 +2,8 @@
 📚 LIBFT - Biblioteca de Funções em C
 </h1>
 
-## 📖 Sobre o Projeto
+## 📖 Sobre o Projeto ![Score](https://img.shields.io/badge/score-100%2F100-brightgreen.svg)
+
 A LIBFT é uma biblioteca em C que recria diversas funções padrão da linguagem, servindo como ferramenta para aprender os conceitos básicos de programação em C, como verificação de caracteres, manipulação de strings e gerenciamento de memória.
 
 🔍 Dicas para Iniciantes
