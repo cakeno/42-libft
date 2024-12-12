@@ -87,10 +87,10 @@ man atoi
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/cakeno/libft.git
+git clone https://github.com/cakeno/42-libft.git
 
 # Entre no diretório
-cd libft
+cd 42-libft
 
 # Compile a biblioteca
 make
